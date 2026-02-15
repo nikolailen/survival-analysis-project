@@ -1,6 +1,9 @@
 ---
 title: "Survival Analysis"
-author: "Amit Agarwal, Lorena Romeo, Nikolai Len, Quentin Camilleri"
+author: |
+  Data ScienceTech Institute, 2024
+
+  Contributors: Amit Agarwal, Lorena Romeo, Nikolai Len, Quentin Camilleri
 output: github_document
 ---
 

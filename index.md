@@ -1,6 +1,8 @@
 ﻿Survival Analysis
 ================
-Amit Agarwal, Lorena Romeo, Nikolai Len, Quentin Camilleri
+Data ScienceTech Institute, 2024
+
+Contributors: Amit Agarwal, Lorena Romeo, Nikolai Len, Quentin Camilleri
 
 Data set: Survival of patients awaiting transplant in the Jasa heart
 data of the survival package.

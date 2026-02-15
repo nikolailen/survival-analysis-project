@@ -1,8 +1,10 @@
 # Survival Analysis of Heart Transplant Patients
 
+📄 [PDF report](./Survival_Analysis.pdf)
+
 🌐 [Project page](https://nikolailen.github.io/survival-analysis-project/)
 
-👤 Project contact: [Nikolai Len](https://www.linkedin.com/in/niklen/)
+👤 Project contact: Nikolai Len
 
 ## Overview
 
@@ -19,8 +21,8 @@ This project analyzes survival outcomes for heart transplant candidates using th
 
 ## Repository Structure
 
-- `Finalized research/Survival_Analysis.Rmd`: analysis source notebook
-- `Finalized research/Survival_Analysis.pdf`: original report export
+- `Survival_Analysis.Rmd`: analysis source notebook
+- `Survival_Analysis.pdf`: original report export
 - `index.md`: GitHub Pages entrypoint generated from the R Markdown report
 - `index_files/`: generated figure assets used by `index.md`
 
@@ -29,7 +31,7 @@ This project analyzes survival outcomes for heart transplant candidates using th
 Render the project page from the R Markdown source:
 
 ```powershell
-Rscript -e "rmarkdown::render('Finalized research/Survival_Analysis.Rmd', output_format='github_document', output_file='index.md', output_dir='.')"
+Rscript -e "rmarkdown::render('Survival_Analysis.Rmd', output_format='github_document', output_file='index.md', output_dir='.')"
 ```
 
 ## License
