@@ -1,12 +1,7 @@
 ---
 title: "Survival Analysis"
 author: "Amit Agarwal, Lorena Romeo, Nikolai Len, Quentin Camilleri"
-output:
-  html_document:
-    df_print: paged
-  word_document: default
-  pdf_document: null
-geometry: left=0.5in,right=0.5in,top=0.5in,bottom=0.5in
+output: github_document
 ---
 
 Data set:  Survival of patients awaiting transplant in the Jasa heart data of the survival package.
