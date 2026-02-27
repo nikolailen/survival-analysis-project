@@ -864,7 +864,7 @@ Nicolas Len
 
 👤 [LinkedIn](https://www.linkedin.com/in/niclen/)
 
-💻 [Source code repository](https://github.com/nikolailen/survival-analysis-project)
+💻 [Source code repository](https://github.com/nicolas-len/survival-analysis-project)
 
 
 
