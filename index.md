@@ -2,7 +2,7 @@
 ================
 Data ScienceTech Institute, 2024
 
-Contributors: Amit Agarwal, Lorena Romeo, Nikolai Len, Quentin Camilleri
+Contributors: Amit Agarwal, Lorena Romeo, Nicolas Len, Quentin Camilleri
 
 Data set: Survival of patients awaiting transplant in the Jasa heart
 data of the survival package.
@@ -860,9 +860,9 @@ with transplant or surgery the survival rate is less high with increase
 of age.
 
 ## Contact
-Nikolai Len
+Nicolas Len
 
-👤 [LinkedIn](https://www.linkedin.com/in/niklen/)
+👤 [LinkedIn](https://www.linkedin.com/in/niclen/)
 
 💻 [Source code repository](https://github.com/nikolailen/survival-analysis-project)
 

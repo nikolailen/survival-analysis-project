@@ -4,7 +4,7 @@
 
 🌐 [Project page](https://nikolailen.github.io/survival-analysis-project/)
 
-👤 Project contact: Nikolai Len
+👤 Project contact: Nicolas Len
 
 ## Overview
 
